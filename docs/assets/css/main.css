@@ -441,3 +441,5 @@ nav a { text-decoration: none; }
 .nav-main li { display: inline-block; text-align: center; margin: 0; padding: 0.2rem 1.6rem 0; }
 .nav-main a { font-weight: bold; }
 .nav-main a + .nav-main a { margin-left: 1em; }
+
+html, body { color: #e9ecef; background-color: #212529; }
