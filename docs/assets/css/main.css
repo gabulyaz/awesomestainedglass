@@ -443,3 +443,5 @@ nav a { text-decoration: none; }
 .nav-main a + .nav-main a { margin-left: 1em; }
 
 html, body { color: #e9ecef; background-color: #212529; }
+
+a.site-title, a.page-link { color: #e9ecef; }
